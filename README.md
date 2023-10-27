@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hello there!
+👩‍💻 I'm Neeshu, a curious frontend developer  
+🤍 In love with Javascript and React  
+💀 Trying to get used to TypeScript  
+📗 Having insatiable appetite for fictional world 
 
-<!--
-**NeeshuSharmaa/neeshusharmaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,tailwindcss,firebase,github,mysql,python)](https://skillicons.dev)  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeshusharmaa&theme=dark)](https://git.io/streak-stats)
+
+## 📫 Let's Connect - 
+- Email: [neeshusharmaa@gmail.com](mailto:neeshusharmaa@gmail.com)
+- Twitter: [@neeshusharmaa](https://twitter.com/neeshusharmaa)
+- LinkedIn: [Neeshu Sharma](https://www.linkedin.com/in/neeshusharmaa/)
+
+Feel free to explore my repositories and let's connect to build and learn together! 🚀
+
+
