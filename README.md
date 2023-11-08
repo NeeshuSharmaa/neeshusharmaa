@@ -7,9 +7,6 @@
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=react,redux,typescript,js,html,css,tailwindcss,firebase,github,mysql,python)](https://skillicons.dev)  
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeshusharmaa&theme=dark)](https://git.io/streak-stats)
-
 ## 📫 Let's Connect - 
 - Email: [neeshusharmaa@gmail.com](mailto:neeshusharmaa@gmail.com)
 - Twitter: [@neeshusharmaa](https://twitter.com/neeshusharmaa)
